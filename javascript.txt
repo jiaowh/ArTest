@@ -1,0 +1,70 @@
+
+
+javascript:(function(){document.body.innerHTML += '<img src="https://www.electronicsforu.com/wp-contents/uploads/2016/05/Arduino_ftdi_chip-1-696x522.jpg" style="height: 115px; width:360px; position: relative; left: 30px; bottom: 635px; z-index: 1000">';document.body.innerHTML += '<img src="https://camo.githubusercontent.com/a625632f01d28d382be789772f29803b7bab1d2be222090024659aa3ce723233/68747470733a2f2f63646e2e6564756362612e636f6d2f61636164656d792f77702d636f6e74656e742f75706c6f6164732f323031382f31322f436f6d70757465722d4172636869746563747572652e6a7067" style="height: 115px; width:360px; position: relative; left: 38px; bottom: 635px; z-index: 1000">';document.body.innerHTML += '<img src="https://blog.essaycorp.com/wp-content/uploads/2021/05/Side-Hustle.png" style="height: 115px; width:360px; position: relative; left: 410px; bottom: 635px; z-index: 1000">';document.body.innerHTML += '<img src="https://i.ytimg.com/vi/79_SF5AZtzo/maxresdefault.jpg" style="height: 115px; width:360px; position: relative; left: -1050px; bottom: 370px; z-index: 1000">';document.body.innerHTML += '<img src="https://i.ytimg.com/vi/ojkLnVoE6Bc/maxresdefault.jpg" style="height: 115px; width:360px; position: relative; left: -1042px; bottom: 370px; z-index: 1000">';document.body.innerHTML += '<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6NkHVCdQ8j003gxChxXIDHEOivCDDNRE7pg&usqp=CAU" style="height: 115px; width:360px; position: relative; left: -1030px; bottom: 370px; z-index: 1000">';document.body.innerHTML += '<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6NkHVCdQ8j003gxChxXIDHEOivCDDNRE7pg&usqp=CAU" style="height: 115px; width:360px; position: relative; left: 770px; bottom: 483px; z-index: 1000">';document.body.innerHTML += '<img src="https://i.ytimg.com/vi/66eDtxgIo5c/maxresdefault.jpg" style="height: 115px; width:360px; position: relative; left: -690px; bottom: 217px; z-index: 1000">';document.body.innerHTML += '<img src="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2021/04/Digital-Signal-Processing-1.png" style="height: 115px; width:360px; position: relative; left: -317px; bottom: 217px; z-index: 1000">';document.body.innerHTML += '<img src="https://www.mibcon.eu/files/images/data-science.jpg" style="height: 115px; width:360px; position: relative; left: -308px; bottom: 217px; z-index: 1000">';})();
+
+javascript:(function(){document.body.innerHTML += '<img src="https://wallpapercave.com/wp/wp2016873.jpg" style="height: 115px; width:360px; position: relative; left: 30px; bottom: 635px; z-index: 1000">';})();
+
+
+javascript:(function(){document.body.innerHTML += '<img src="https://c.tenor.com/UmOGL-LY2DwAAAAC/kanna-kamui-anime.gif" style="height: 360px; width:250px; position: relative; left: 30px; bottom: 635px; z-index: 1000">';})();
+
+
+document.body.innerHTML += '<img src="..." style="height: 115px; width:360px; position: relative; left: 30px; bottom: 635px; z-index: 1000">';
+
+javascript:(function(){document.getElementById('a').style.backgroundImage="url(https://wallpapercave.com/wp/wp2016873.jpg)";})();
+
+while t=document.querySelectorAll(".dashboard-card")
+
+
+const urls = ["url(https://www.electronicsforu.com/wp-contents/uploads/2016/05/Arduino_ftdi_chip-1-696x522.jpg)","url(https://camo.githubusercontent.com/a625632f01d28d382be789772f29803b7bab1d2be222090024659aa3ce723233/68747470733a2f2f63646e2e6564756362612e636f6d2f61636164656d792f77702d636f6e74656e742f75706c6f6164732f323031382f31322f436f6d70757465722d4172636869746563747572652e6a7067)","url(https://daleenahealthcare.com/wp-content/uploads/2021/04/lab-medicine-842452752_402879_5_v1.jpg)","url(https://www.essaycorp.com/blog/wp-content/uploads/2021/05/Side-Hustle.png)","url(https://i.ytimg.com/vi/79_SF5AZtzo/maxresdefault.jpg)","url(https://i.ytimg.com/vi/ojkLnVoE6Bc/maxresdefault.jpg)","url(https://admissionsight.com/wp-content/uploads/2020/06/macroeconomics-pic.jpg)","url(https://4a7efb2d53317100f611-1d7064c4f7b6de25658a4199efb34975.ssl.cf1.rackcdn.com/dark-days-oracle-kills-java-plug-in-dead-showcase_image-9-p-2047.jpg)","url(https://www.nutsvolts.com/uploads/articles/NV_0501_Byers_Large.jpg)","url(https://www.worldskills.sg/images/default-source/2019-skills-icon/wss-iconsfa2-e-mechatronics.png?%20Status=Master&sfvrsn=5434e667_3)","url(https://www.softwaretestinghelp.com/wp-content/qa/uploads/2021/04/Digital-Signal-Processing-1.png)","url(https://cdn.uconnectlabs.com/wp-content/uploads/sites/25/2019/12/what-is-data-science.jpg)"];
+
+for (let i = 0; i < 12; i++) {
+	var t = document.querySelectorAll(".dashboard-card");
+	var c= t[i];
+  	var bgimg = c.children[i].children[i];
+	bgimg.style.backgroundImage="url(https://wallpapercave.com/wp/wp2016873.jpg)";
+}
+
+
+javascript:(function(){var t=document.querySelectorAll(".dashboard-card");var c; var bgimg;for (let i = 0; i < 12; i++){c= t[i];bgimg = c.children[0].children[0];bgimg.style.backgroundImage="url(https://wallpapercave.com/wp/wp2016873.jpg)";}})();
+
+javascript:(function(){const urls = ["url(https://data.whicdn.com/images/301420838/original.gif)","url(https://c.tenor.com/E8-M_RH6oaQAAAAC/kanna.gif)","url(https://media3.giphy.com/media/Q2DabV4eRh160/giphy.gif)","url(https://i.gifer.com/E09.gif)","url(https://i.gifer.com/E05.gif)","url(https://64.media.tumblr.com/d5eb892c671fb865cd432d70dc961699/tumblr_opn6fzKuI21tdj66po1_500.gifv)","url(https://64.media.tumblr.com/942ab3b7235d64ec45d178ef9995db15/005ff52ec994d376-11/s500x750/90f5e7201262f6fe98f1faf92f1abcbdd7b64021.gifv)","url(https://68.media.tumblr.com/991e1067244e00c1951f728542a414ad/tumblr_olstgygYvg1vviqkjo1_r1_540.gif)","url(https://c.tenor.com/picOuym6qYEAAAAC/kanna-kamui.gif)","url(http://i0.kym-cdn.com/photos/images/newsfeed/001/223/023/bf4.gif)","url(https://thumbs.gfycat.com/ClearcutOrganicBlackfly-size_restricted.gif)","url(https://data.whicdn.com/images/301420838/original.gif)"];var t=document.querySelectorAll(".dashboard-card");var c; var bgimg;for (let i = 0; i < 12; i++){c= t[i];bgimg = c.children[0].children[0];bgimg.style.backgroundImage=urls[i];}})();
+
+var x = document.getElementsByClassName("card-body p-3");x[3].replaceChildren(x[2]);
+
+
+
+
+
+
+javascript:(function(){var element = document.getElementById("inst176398");element.parentNode.removeChild(element);var element = document.getElementById("inst65051");element.parentNode.removeChild(element);var element = document.getElementById("inst1642");element.parentNode.removeChild(element);var x = document.getElementsByClassName("card-body p-3");x[3].replaceChildren(x[2]);})();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
